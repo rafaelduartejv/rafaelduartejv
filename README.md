@@ -1,7 +1,7 @@
 ### Hey você, muito prazer. Me chamo Rafael Santos!!
 
 - 🔭 Iniciando na Programação
-- 🌱 Atualmente estou me aperfeiçoando no JAVA
+- 🌱 Atualmente estou me aperfeiçoando em JAVA
 - 💬 Caso queira mandar algo meu email é : rafaelduarte.jv@gmail.com
 
 <div> 
