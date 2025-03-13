@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Rafael Duarte
+# 👋 Olá! Eu sou Rafael Santos
 
 ## 💻 Sobre mim
 
