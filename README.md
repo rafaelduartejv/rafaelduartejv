@@ -6,7 +6,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre buscando apr
 
 📍 **Localização:** Suzano, SP, Brasil  
 🚀 **Atualmente trabalhando com:** Desenvolvimento de aplicações web e sistemas SaaS  
-🎯 **Objetivos:** Criar sistemas escaláveis e aprender mais sobre desenvolvimento de jogos  
+🎯 **Objetivos:** Criar sistemas escaláveis
 
 ---
 
@@ -14,7 +14,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre buscando apr
 
 ### 💡 Backend
 - Java (Spring Boot, Spring Data JPA, Spring Security)
-- PostgreSQL, MySQL, SQLServer, Oracle, Docker
+- PostgreSQL, MySQL e SQLServer
 - APIs RESTful
 
 ### 🌐 Frontend
