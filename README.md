@@ -14,7 +14,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação, sempre buscando apr
 
 ### 💡 Backend
 - Java (Spring Boot, Spring Data JPA, Spring Security)
-- PostgreSQL, H2 Database
+- PostgreSQL, MySQL, SQLServer, Oracle, Docker
 - APIs RESTful
 
 ### 🌐 Frontend
